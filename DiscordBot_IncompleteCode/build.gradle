@@ -1,0 +1,22 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+    maven {
+        name 'm2-dv8tion'
+        url 'https://m2.dv8tion.net/releases'
+    }
+    maven {
+        url "https://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts"
+    }
+}
+
+dependencies {
+    // Current Discord bot API
+    implementation 'net.dv8tion:JDA:4.2.1_253'
+}
