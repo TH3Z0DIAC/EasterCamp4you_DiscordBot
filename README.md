@@ -18,7 +18,8 @@ This repository contains the unfinished code base for the discord bot presented 
 * Go to **Advanced** (**Erweitert**)
 * Click on **Environment Variables** (**Umgebungsvariablen**)
 * On **Environment Variables**, search for **Path** and click edit (bearbeiten)
-* Click on new and add this path: C:\Program Files\Java\jdk-13.0.2\bin **!!IMPORTANT: Can only be done like this if you have stored the unpacked ZIP-file as mentioned above**
+* Click on new and add this path: C:\Program Files\Java\jdk-13.0.2\bin 
+    * **!! IMPORTANT: Can only be done like this if you have stored the unpacked ZIP-file as mentioned above**
 * Accept with **OK**
 * Add a new System variable
     * Name: JAVA_HOME
