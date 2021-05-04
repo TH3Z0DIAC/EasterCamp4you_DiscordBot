@@ -6,7 +6,7 @@ This repository contains the unfinished code base for the discord bot presented 
 1. Java JDK 13
     1. [JDK 13 Download](https://download.java.net/java/GA/jdk13.0.2/d4173c853231432d94f001e99d882ca7/8/GPL/openjdk-13.0.2_windows-x64_bin.zip)
 1. Gradle
-    1. [Gradle 7](https://gradle.org/next-steps/?version=7.0&format=all)
+    1. [Gradle 7](https://www.tutorialspoint.com/gradle/gradle_installation.htm)
 
 
 ## Install the JDK first as following:
@@ -29,4 +29,6 @@ This repository contains the unfinished code base for the discord bot presented 
 * Enter `javac -version` 
 * It should show you the current Java Version of your system
 
-Once this is done, install gradle with the installer and download the code examples.
+Once this is done, install gradle with the guide and download the code examples.
+
+Have fun!
